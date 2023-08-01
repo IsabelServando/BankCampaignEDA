@@ -1,6 +1,6 @@
 # BankCampaignEDA
-My first ever EDA: determine factors that makes a customer say YES or NO to a bank term deposit subscription.
-Sharing this because even though I just used Excel, I was excited to see how even a simple tool could have the power to reveal interesting data stories, especially since I was curious enough to find them. I was really excited to uncover what was hidden in the data!
+My first ever EDA for a Data Science class: determine factors that makes a customer say YES or NO to a bank term deposit subscription.
+Even though the assignment was to just use Excel, I was excited to see how even a simple tool could reveal the stories hidden in the numbers. Having a curious imagination helped of course.
 
 Interesting findings (details, along with the tasks to achieve these, are in the PDF)
 • While majority of the customers have a positive ave yrly balance, those who say no to the term deposit subscription have a lower average than those of the yes.
