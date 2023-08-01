@@ -3,6 +3,7 @@ My first ever EDA for a Data Science class: determine factors that makes a custo
 Even though the assignment was to just use Excel, I was excited to see how even a simple tool could reveal the stories hidden in the numbers. Having a curious imagination helped of course.
 
 Interesting findings (details, along with the tasks to achieve these, are in the PDF)
+
 • While majority of the customers have a positive ave yrly balance, those who say no to the term deposit subscription have a lower average than those of the yes.
 • Those without a Housing Loan were/are more likely to say YES to the Term Deposit Subscription.
 • The average duration of last contact (in seconds) that got a YES is 2x the average duration of last contact that got a NO. The longer the contact, the more likely it will get a YES.
