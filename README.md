@@ -1,5 +1,5 @@
 # BankCampaignEDA
-My first ever EDA for a Data Science class: determine factors that makes a customer say YES or NO to a bank term deposit subscription.
+My first ever EDA using Pivot Tables in Excel to determine factors that make customers say YES/NO to a term deposit subscription.
 Even though the assignment was to just use Excel, I was excited to see how even a simple tool could reveal the stories hidden in the numbers. Having a curious imagination helped of course. Attached files include PDF of the simple report, the csv file, the Excel file where I created the pivot tables and data cleaning.
 
 INTERESTING FINDINGS (Details in the PDF)
