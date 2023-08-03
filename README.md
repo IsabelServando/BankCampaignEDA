@@ -1,6 +1,8 @@
 # BankCampaignEDA
 My first ever EDA using Pivot Tables in Excel to determine factors that make customers say YES/NO to a term deposit subscription.
-Even though the assignment was to just use Excel, I was excited to see how even a simple tool could reveal the stories hidden in the numbers. Having a curious imagination helped of course. Attached files include PDF of the simple report, the csv file, the Excel file where I created the pivot tables and data cleaning.
+Even though this just used Excel, I was excited to see how even a simple tool could reveal answers and stories, if you were just curious enough to ask all kinds of what ifs.
+
+Attached files include a PDF of the simple report, the csv file, the Excel file where I created the pivot tables and data cleaning.
 
 INTERESTING FINDINGS (Details in the PDF)
 
